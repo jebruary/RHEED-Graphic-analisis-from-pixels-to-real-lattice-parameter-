@@ -7,4 +7,4 @@ Then by pointing out the 2 points in both pictures, it calculates the distance t
 
 ATTENTION the equation used in this code is for hexagon pattern sample, if you wish to use for other patterns, you could change the equation of line 109.
 
-  
+Any questions or mistakes made please contact zjcheng@yahoo.com 
